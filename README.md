@@ -1,4 +1,4 @@
-### Agent Smith
+# Agent Smith
 ## Agent Smith 😎: Visualize Your Agent Chains
 
 Welcome to Agent Smith, a work-in-progress Streamlit application designed to help you visually compose and manipulate complex agent workflows using Mermaid charts! 🧜‍♀️
